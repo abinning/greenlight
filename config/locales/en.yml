@@ -276,7 +276,15 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "Welcome to our secure, fully featured Web Conferencing solution. Developed as part of our Virtual Events Platform for online and hybrid events, secure rooms can be created to host sessions that your audience can join using a short and convenient link. Presentation slides can be annotated with our virtual iLectern features, the presenter and audience can interact through instant messaging and polling questions, and additional breakout rooms can be hosted. Contact us for more information on our full range of services."
+    about: "Welcome to our secure, fully featured Web Conferencing solution.
+    
+    Developed as part of our Virtual Events Platform for online and hybrid events, virtual meeting rooms can be created to host sessions which can be joined using short, convenient links and secured with passcodes to prevent unauthorised access.
+    
+    Presentation slides can be annotated with our virtual iLectern features, and secure webcam and chat functions allow presenter/audience engagement through instant messaging, polls and video conferencing.
+    
+    Additional breakout rooms can be opened from the meeting room and the session administrator has full control over access.
+    
+    Brought to you by Tapestry Events – Your Global Events Partner"
     welcome: Tapestry Virtual Event Solutions
     video: Watch our tutorial
     upgrade: Show me how to upgrade to 2.0!
