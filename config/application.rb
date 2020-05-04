@@ -125,8 +125,8 @@ module Greenlight
     config.maintenance_window = ENV["MAINTENANCE_WINDOW"]
     config.maintenance_mode = ENV["MAINTENANCE_MODE"] == "true"
 
-    #config.report_issue_url = ENV["REPORT_ISSUE_URL"]
-    #config.help_url = ENV["HELP_URL"].presence || "https://docs.bigbluebutton.org/greenlight/gl-overview.html"
+    config.report_issue_url = ENV["REPORT_ISSUE_URL"]
+    config.help_url = ENV["HELP_URL"].presence || "https://tapestry.events"
 
     # DEFAULTS
 
