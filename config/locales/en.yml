@@ -150,7 +150,7 @@ en:
         running: Running
         status: Status
         view: View
-    title: Organization Settings
+    title: Organisation Settings
     users:
       invite: Invite User
       edit:
@@ -256,7 +256,7 @@ en:
   header:
     all_recordings: All Recordings
     dropdown:
-      account_settings: Organization
+      account_settings: Organisation
       help: Need help?
       home: Home
       settings: Profile
@@ -301,8 +301,8 @@ en:
         signin_link: Sign In
         signup:
           info: A new user has signed up.
-          more-info: To allow this user access you must approve their account in organization settings.
-          admins_link: Visit the Organization Page
+          more-info: To allow this user access you must approve their account in organisation settings.
+          admins_link: Visit the Organisation Page
           subject: New User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Account Approved
@@ -318,7 +318,7 @@ en:
         signup_link: Sign Up
         signup:
           info: A user that was invited has signed up.
-          admins_link: Visit the Organization Page
+          admins_link: Visit the Organisation Page
           subject: New User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Invitation to join Tapestry Web Conferencing
@@ -331,7 +331,7 @@ en:
         expire: This link will expire in two hours.
         ignore: You can safely ignore this email if you did not make this request.
       promoted:
-        admins_link: Visit the Organization Page
+        admins_link: Visit the Organisation Page
         info: You are now an %{role} on %{url}.
         more-info: To view your new abilities please visit %{url}.
         subtitle: "%{role} Rights Granted"
